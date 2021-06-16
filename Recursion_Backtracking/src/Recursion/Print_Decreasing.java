@@ -1,4 +1,6 @@
 package Recursion;
-
-public class Print_Decreasing {
+class Print_Decreasing {
+    public static void main(String[] args) {
+        System.out.println("ggdsdfghjk");
+    }
 }

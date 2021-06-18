@@ -17,6 +17,8 @@ public class Logarithm_Power {
         int xn=xbpn2*xbpn2;
         if(n%2==1)
             xn=xn*x;
+
         return xn;
+
     }
 }
